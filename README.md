@@ -32,7 +32,10 @@ This is a full stack application that uses the Model, View, Controller developme
 This was designed for users to be able to add animals and zookeepers to a database
 
 ## Examples
-
+![dashboard](/public/assets/images/dashboard.jpg)
+![animal catalog](public/assets/images/animal-catalog.jpg)
+![zookeeper catalog](public/assets/images/zookeeper-catalog.jpg)
+![add-animal](/public/assets/images/add-animal.jpg)
 ## License:
 For more information about licenses, please visit:
 [License](https://opensource.org/licenses/MIT)
@@ -58,6 +61,8 @@ Testing completed using InsomniaCore, Checked for typos and bugs
 * Express
 * mysql 2
 * Sequelize
+* HTML
+* CSS
 
 
 ## Questions:
